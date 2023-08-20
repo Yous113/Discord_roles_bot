@@ -21,7 +21,9 @@ This Discord bot was created as part of a programming project for a school progr
 
    ```bash
    pip install discord.py
-4. Create a file named token.txt in the same directory as the code and paste your Discord bot token inside the file and invite the bot to your Discord server by generating an OAuth2 URL with the appropriate permissions and adding it to your server.
+4. Create a file named token.txt in the same directory as the code and paste your Discord bot token inside the file.
+
+5. invite the bot to your Discord server by generating an OAuth2 URL with the appropriate permissions and adding it to your server.
 
 ## Usage
 You can customize the code by updating the emojis and role names according to your Discord server's setup.
