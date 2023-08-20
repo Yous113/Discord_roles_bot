@@ -4,6 +4,10 @@
 
 This Discord bot was created as part of a programming project for a school programming class. The bot is designed to manage roles in a Discord server by allowing users to assign and remove specific roles using reactions to designated messages.
 
+## Tools
+- Python 3
+- Discord.py library
+
 ## Features
 
 - **Role Assignment:** Users can assign themselves specific roles by reacting to designated messages with emojis.
