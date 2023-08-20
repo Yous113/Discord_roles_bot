@@ -28,8 +28,8 @@ You can customize the code by updating the emojis and role names according to yo
 
 Run the bot script by executing the following command in your terminal:
 
- ```bash
-   pip install discord.py  
+```bash
+pip install discord.py  
 ```
 The bot will now be active on your server. Users can interact with it by reacting to the designated messages with the corresponding emojis to assign or remove roles.
 
